@@ -1,0 +1,9 @@
+D:\WorkSpace\ToDo\TestCode\ServiceStackTest\ServiceStackTest\ServiceStackTest.ServiceModel\bin\Release\ServiceStackTest.ServiceModel.dll
+D:\WorkSpace\ToDo\TestCode\ServiceStackTest\ServiceStackTest\ServiceStackTest.ServiceModel\bin\Release\ServiceStackTest.ServiceModel.pdb
+D:\WorkSpace\ToDo\TestCode\ServiceStackTest\ServiceStackTest\ServiceStackTest.ServiceModel\bin\Release\ServiceStack.Interfaces.dll
+D:\WorkSpace\ToDo\TestCode\ServiceStackTest\ServiceStackTest\ServiceStackTest.ServiceModel\bin\Release\ServiceStack.Interfaces.xml
+D:\WorkSpace\ToDo\TestCode\ServiceStackTest\ServiceStackTest\ServiceStackTest.ServiceModel\obj\Release\ServiceStackTest.ServiceModel.csprojAssemblyReference.cache
+D:\WorkSpace\ToDo\TestCode\ServiceStackTest\ServiceStackTest\ServiceStackTest.ServiceModel\obj\Release\ServiceStackTest.ServiceModel.csproj.CoreCompileInputs.cache
+D:\WorkSpace\ToDo\TestCode\ServiceStackTest\ServiceStackTest\ServiceStackTest.ServiceModel\obj\Release\ServiceStackTest.ServiceModel.csproj.CopyComplete
+D:\WorkSpace\ToDo\TestCode\ServiceStackTest\ServiceStackTest\ServiceStackTest.ServiceModel\obj\Release\ServiceStackTest.ServiceModel.dll
+D:\WorkSpace\ToDo\TestCode\ServiceStackTest\ServiceStackTest\ServiceStackTest.ServiceModel\obj\Release\ServiceStackTest.ServiceModel.pdb

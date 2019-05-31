@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\WorkSpace\ToDo\TestCode\ServiceStackTest\ServiceStackTest\ServiceStackTest\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ServiceStack.Client.dll">
+      <publishTime>03/27/2019 10:02:44</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Common.dll">
+      <publishTime>03/27/2019 10:02:46</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.dll">
+      <publishTime>03/27/2019 10:02:50</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>03/27/2019 10:02:44</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.dll">
+      <publishTime>03/27/2019 09:14:08</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.dll">
+      <publishTime>03/27/2019 09:15:56</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Server.dll">
+      <publishTime>03/27/2019 10:02:52</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>03/27/2019 09:10:24</publishTime>
+    </File>
+    <File Include="bin/ServiceStackTest.dll">
+      <publishTime>05/30/2019 10:18:08</publishTime>
+    </File>
+    <File Include="bin/ServiceStackTest.pdb">
+      <publishTime>05/30/2019 10:18:08</publishTime>
+    </File>
+    <File Include="bin/ServiceStackTest.ServiceInterface.dll">
+      <publishTime>05/30/2019 10:18:07</publishTime>
+    </File>
+    <File Include="bin/ServiceStackTest.ServiceInterface.pdb">
+      <publishTime>05/30/2019 10:18:07</publishTime>
+    </File>
+    <File Include="bin/ServiceStackTest.ServiceModel.dll">
+      <publishTime>05/30/2019 10:18:07</publishTime>
+    </File>
+    <File Include="bin/ServiceStackTest.ServiceModel.pdb">
+      <publishTime>05/30/2019 10:18:07</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>05/15/2018 13:29:34</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>11/29/2018 15:39:16</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>09/18/2018 19:38:10</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/30/2019 10:16:41</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/30/2019 10:17:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/30/2019 10:18:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
